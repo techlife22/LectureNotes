@@ -1,0 +1,11 @@
+#movies {
+  background-color: lightskyblue;
+  border: solid 1px black;
+  margin: auto;
+}
+.title {
+  font-style: italic;
+}
+#movieTable {
+  text-align: center;
+}
