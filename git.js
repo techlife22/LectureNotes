@@ -6,7 +6,7 @@ What is Git?
         -Cloning other's repositories to access the code locally
         -A shared space for a group of developers to work together in creating an application
 
-Git Walkthrough
+Git Walkthrough  
 
     Open up the terminal associated with your OS
 
