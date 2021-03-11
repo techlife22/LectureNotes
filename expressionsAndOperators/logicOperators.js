@@ -26,6 +26,9 @@ console.log(x, y);*/
 //x = x % 1;
 //y %= 1;
 //console.log(x, y);
+let test = 10;
+(test % 3) //1
+(test % )
 
 //Exponential operator
 //x = x ** 100;
